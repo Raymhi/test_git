@@ -1,3 +1,3 @@
-Hello world
+Bon, faisons un redme correct...
 
-Familiaaa !!
+hum, hum, voilà !!
